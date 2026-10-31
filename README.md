@@ -1,6 +1,7 @@
 # Programación Backend - UPC - Programación Full Stack
-**Estudiante:** Ochoa Tiziana  
-**Actividad:** Resolución de ejercicios prácticos sobre diseño de APIs REST, validación de DTOs con TypeScript, manejo de errores, inyección de dependencias, arquitectura modular y buenas prácticas de desarrollo backend.
+
+### **Estudiante:** Ochoa Tiziana  
+### **Actividad:** Resolución de ejercicios prácticos sobre diseño de APIs REST, validación de DTOs con TypeScript, manejo de errores, inyección de dependencias, arquitectura modular y buenas prácticas de desarrollo backend.
 ---
 ## EJERCICIO 1: Diseño de Rutas y Métodos HTTP (Infracción de Principios REST)
 
